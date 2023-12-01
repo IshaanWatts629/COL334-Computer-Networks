@@ -1,3 +1,3 @@
 ## Assignment 2
 
-Error in Task 2 of this Assignment. 
+Code for Peer Server Peer (PSP) network Project
